@@ -2,7 +2,7 @@
 
 > 内容目录. 每个 wiki 页面按类型列出,附一行摘要.
 > 首次查询请先阅读此文件查找相关页面.
-> Last updated: 2026-04-14 | Total pages: 20
+> Last updated: 2026-04-14 | Total pages: 21
 
 ## Entities
 
@@ -24,6 +24,7 @@
 - [[deep-learning-emotion-recognition]] — 深度学习情感识别:CNN/LSTM/Transformer等模型应用
 - [[contactless-emotion-recognition]] — 非接触式情感识别:通过雷达/摄像头远距离采集
 - [[imu-based-emotion-recognition]] — IMU情感识别:通过惯性测量单元检测运动与情感
+- [[technology-as-tool]] — 技术工具论:技术只是手段，目的比技术更重要
 - [[eeg-signal-processing]] — 脑电信号处理:EEG采集、预处理、特征提取流程
 - [[emotion-recognition-datasets]] — 情感识别数据集:常用公开数据集汇总
 
@@ -31,6 +32,7 @@
 - [[emotion-recognition-technology-comparison]] — 情感识别技术对比:各模态/传感器/融合策略对比分析
 
 ## Queries
+- [[queries/2026-04-14-soulful-encounters]] — 2026-04-14:必胜客算命先生+优衣库Ariel公主T恤的巧合经历
 
 ## Raw Sources
 - [[raw/papers/competition-proj2-motion-rehab-emotion-system-2026.md]] — 赛题2原始文件 (2026中国大学生计算机设计大赛)
