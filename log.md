@@ -52,3 +52,17 @@
 - 创建: queries/2026-04-14-soulful-encounters.md
 - 内容: 今天和室友去必胜客吃披萨,算命先生连续3次对win-win说"我有一句话要跟你说";最近3次去优衣库都穿着Ariel公主印花T恤
 - 更新: index.md (Total pages: 21)
+
+## [2026-04-18] ingest | 4篇新论文摄入
+- 新增PDF原文:
+  - 2011DEEP-一个利用生理信号进行情绪分析的数据库.md (DEAP数据集,14页)
+  - s41598-025-09112-w.md (MRVS毫米波雷达心率监测,17页)
+  - 2025毫米波雷达测心率-挺多的-包括处理算法.md (FMCW+A-VMD心率提取,20页)
+  - 2025利用雷达技术进行心脏健康-心率.md (智能家具雷达心脏健康+HRV,20页)
+- 新增/更新概念页面:
+  - concepts/heart-rate-variability.md (新建,HRV定义+指标+雷达测量方法)
+  - concepts/radar-based-emotion-recognition.md (新增3篇雷达论文sources)
+  - concepts/emotion-recognition-datasets.md (DEAP详情补充)
+  - concepts/physiological-signal-based-emotion-recognition.md (新增HRV链接)
+- 更新: index.md (Total pages: 23)
+- 更新: log.md

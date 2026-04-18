@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [emotion-recognition, physiological-signal, affective-computing, multimodal, rehabilitation]
-sources: [raw/papers/2025multimodaldata-eeg-heart-rate-eda-皮肤温度-cnn-lstm-开源data集.md, raw/papers/2023survey-sensor-preprocessing-algorithm.md, raw/papers/2023耳后脑电采集+模型分析.md, raw/papers/基于生理信号emotion-recognition的hand-rehabilitation人机交互设备research_huang-xiansheng.md, raw/papers/2025hand-rehabilitation-remote-camera-microphone-wearablephysiological-parameters-vrgaming.md]
+sources: [raw/papers/2025multimodaldata-eeg-heart-rate-eda-皮肤温度-cnn-lstm-开源data集.md, raw/papers/2023survey-sensor-preprocessing-algorithm.md, raw/papers/2023耳后eeg采集+模型分析.md, raw/papers/基于生理信号emotion-recognition的hand-rehabilitation人机交互设备research_huang-xiansheng.md, raw/papers/2025hand-rehabilitation-remote-camera-microphone-wearablephysiological-parameters-vrgaming.md, raw/papers/2011DEEP-一个利用生理信号进行情绪分析的数据库.md]
 ---
 
 # 生理信号情绪识别 (Physiological Signal Emotion Recognition)
@@ -64,3 +64,4 @@ sources: [raw/papers/2025multimodaldata-eeg-heart-rate-eda-皮肤温度-cnn-lstm
 - [[sports-rehabilitation]] — 运动康复
 - [[virtual-rehabilitation]] — 虚拟康复
 - [[wearable-sensors]] — 可穿戴传感器
+- [[heart-rate-variability]] — 心率变异性(HRV)

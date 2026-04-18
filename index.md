@@ -2,7 +2,7 @@
 
 > 内容目录. 每个 wiki 页面按类型列出,附一行摘要.
 > 首次查询请先阅读此文件查找相关页面.
-> Last updated: 2026-04-17 | Total pages: 22
+> Last updated: 2026-04-18 | Total pages: 23
 
 ## Entities
 
@@ -26,7 +26,8 @@
 - [[imu-based-emotion-recognition]] — IMU情感识别:通过惯性测量单元检测运动与情感
 - [[technology-as-tool]] — 技术工具论:技术只是手段，目的比技术更重要
 - [[eeg-signal-processing]] — 脑电信号处理:EEG采集、预处理、特征提取流程
-- [[emotion-recognition-datasets]] — 情感识别数据集:常用公开数据集汇总
+- [[emotion-recognition-datasets]] — 情感识别数据集:常用公开数据集汇总(DEAP/MAHNOB-HCI等)
+- [[heart-rate-variability]] — 心率变异性(HRV):连续心跳间隔波动,反映自主神经调节能力
 
 ## Comparisons
 - [[emotion-recognition-technology-comparison]] — 情感识别技术对比:各模态/传感器/融合策略对比分析
@@ -62,3 +63,7 @@
 - [[raw/papers/基于生理信号emotion-recognition的hand-rehabilitation人机交互设备research_huang-xiansheng.md]] — 基于生理信号情绪识别的手部康复人机交互设备研究_黄贤盛
 - [[raw/papers/RGB-radar.md]] — RGB+雷达
 - [[raw/papers/赛题2_面向运动rehabilitation的智能affective交互系统设计.md]] — 赛题2_面向运动康复的智能情感交互系统设计
+- [[raw/papers/2011DEEP-一个利用生理信号进行情绪分析的数据库.md]] — 2011 DEAP数据库:利用生理信号进行情绪分析 (EEG+多生理信号)
+- [[raw/papers/s41598-025-09112-w.md]] — 2025 MRVS方法:FMCW毫米波雷达生命体征监测(DWT+AKF,误差<7%)
+- [[raw/papers/2025毫米波雷达测心率-挺多的-包括处理算法.md]] — 2025 FMCW非接触心率监测:A-VMD算法,误差<4BPM
+- [[raw/papers/2025利用雷达技术进行心脏健康-心率.md]] — 2025智能家具雷达心脏健康监测:心电图波形重建,IBI误差30ms

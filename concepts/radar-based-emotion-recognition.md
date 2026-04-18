@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [emotion-recognition, physiological-signal, contactless-sensing, multimodal]
-sources: [raw/papers/2024详细雷达检测情绪mdpi.md, raw/papers/2025radar-multimodal.md, raw/papers/2025cliniciancomparison-音频-text-radar-multimodaltransformer.md, raw/papers/2021呼吸+雷达详细.md, raw/papers/2016权威validation射频信号detection心跳的accuracy-证明detection情绪的possibility.md, raw/papers/RGB-radar.md]
+sources: [raw/papers/2024详细雷达检测情绪mdpi.md, raw/papers/2025radar-multimodal.md, raw/papers/2025cliniciancomparison-音频-text-radar-multimodaltransformer.md, raw/papers/2021呼吸+雷达详细.md, raw/papers/2016权威validation射频信号detection心跳的accuracy-证明detection情绪的possibility.md, raw/papers/RGB-radar.md, raw/papers/s41598-025-09112-w.md, raw/papers/2025毫米波雷达测心率-挺多的-包括处理算法.md, raw/papers/2025利用雷达技术进行心脏健康-心率.md]
 ---
 
 # 雷达感知的情感识别 (Radar-based Emotion Recognition)
@@ -61,5 +61,6 @@ sources: [raw/papers/2024详细雷达检测情绪mdpi.md, raw/papers/2025radar-m
 - [[emotion-recognition]] — 情感识别
 - [[physiological-signal-based-emotion-recognition]] — 生理信号情绪识别
 - [[multimodal-interaction]] — 多模态交互
-- [[contactless-sensing]] — 非接触式传感
+- [[contactless-emotion-recognition]] — 非接触式情感识别
+- [[heart-rate-variability]] — 心率变异性(HRV)
 - [[radar-signal-processing]] — 雷达信号处理
