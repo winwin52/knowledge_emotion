@@ -2,7 +2,7 @@
 
 > 内容目录. 每个 wiki 页面按类型列出,附一行摘要.
 > 首次查询请先阅读此文件查找相关页面.
-> Last updated: 2026-04-14 | Total pages: 21
+> Last updated: 2026-04-17 | Total pages: 22
 
 ## Entities
 
@@ -32,6 +32,7 @@
 - [[emotion-recognition-technology-comparison]] — 情感识别技术对比:各模态/传感器/融合策略对比分析
 
 ## Queries
+- [[queries/2026-04-17-excitement-and-calm]] — 2026-04-17:兴奋与平静 — 脑机接口+情绪识别，命运的馈赠，与回归现实的苦旅
 - [[queries/2026-04-14-soulful-encounters]] — 2026-04-14:必胜客算命先生+优衣库Ariel公主T恤的巧合经历
 
 ## Raw Sources

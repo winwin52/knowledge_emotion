@@ -45,7 +45,10 @@
   - concepts/sports-rehabilitation.md (新增sources)
 - 更新: log.md
 
-## [2026-04-14] create | 生活记录:必胜客算命先生与优衣库ArielT恤
+## [2026-04-17] create | 生活记录:兴奋与平静
+- 创建: queries/2026-04-17-excitement-and-calm.md
+- 内容: 早上因咖啡兴奋，看到脑机接口+情绪识别系统后想奔赴海南；晚上回归平静，思考"循此苦旅，以达天际"
+- 更新: index.md (Total pages: 22)
 - 创建: queries/2026-04-14-soulful-encounters.md
 - 内容: 今天和室友去必胜客吃披萨,算命先生连续3次对win-win说"我有一句话要跟你说";最近3次去优衣库都穿着Ariel公主印花T恤
 - 更新: index.md (Total pages: 21)
