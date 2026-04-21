@@ -2,7 +2,7 @@
 
 > 内容目录. 每个 wiki 页面按类型列出,附一行摘要.
 > 首次查询请先阅读此文件查找相关页面.
-> Last updated: 2026-04-18 | Total pages: 23
+> Last updated: 2026-04-21 | Total pages: 32
 
 ## Entities
 
@@ -37,6 +37,15 @@
 - [[queries/2026-04-14-soulful-encounters]] — 2026-04-14:必胜客算命先生+优衣库Ariel公主T恤的巧合经历
 
 ## Raw Sources
+- [[raw/papers/2015FMCW雷达获取心率及呼吸率的方法.md]] — 2015 FMCW雷达获取心率及呼吸率的方法 (MIT Vital-Radio,CHI 2015)
+- [[raw/papers/2015多模态融合算法-情绪.md]] — 2015多模态融合算法与情绪识别 (ACM Computing Surveys)
+- [[raw/papers/2019雷达测心肺生理参数圣经-静止躺.md]] — 2019雷达测心肺生理参数研究 (IEEE ACCESS,77GHz毫米波)
+- [[raw/papers/2023雷达与摄像头融合运动感知.md]] — 2023雷达与摄像头融合运动感知
+- [[raw/papers/2025超宽带雷达探测呼吸心跳信号研究综述.md]] — 2025超宽带雷达探测呼吸心跳信号研究综述
+- [[raw/papers/2025数据集雷达PPG皮肤电.md]] — 2025数据集雷达PPG皮肤电
+- [[raw/papers/2025无接触生理信号测量综述.md]] — 2025无接触生理信号测量综述
+- [[raw/papers/2026疼痛评估.md]] — 2026疼痛评估
+- [[raw/papers/连续情绪识别.md]] — 连续情绪识别
 - [[raw/papers/competition-proj2-motion-rehab-emotion-system-2026.md]] — 赛题2原始文件 (2026中国大学生计算机设计大赛)
 - [[raw/papers/2024emotion-recognitionsurvey.md]] — 2024情绪识别综述
 - [[raw/papers/2024情感行业综述-发展.md]] — 2024情感行业综述-发展
