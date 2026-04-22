@@ -2,7 +2,7 @@
 
 > 内容目录. 每个 wiki 页面按类型列出,附一行摘要.
 > 首次查询请先阅读此文件查找相关页面.
-> Last updated: 2026-04-21 | Total pages: 32
+> Last updated: 2026-04-21 | Total pages: 33
 
 ## Entities
 
@@ -58,6 +58,7 @@
 - [[raw/papers/2023树莓派-vision-edasweat-glandsensor.md]] — 2023树莓派-视觉+皮肤电汗腺传感器
 - [[raw/papers/2023-imuemotion-recognition-algorithm.md]] — 2023——IMU情绪识别+算法
 - [[raw/papers/2021respiration-radardetailed.md]] — 2021呼吸+雷达详细
+- [[raw/papers/2016MIT雷达测心率情绪机器学习.md]] — 2016 MIT EQ-Radio: RF射频情绪识别 (MobiCom 2016)
 - [[raw/papers/2016权威validation射频信号detection心跳的accuracy-证明detection情绪的possibility.md]] — 2016权威验证射频信号检测心跳的准确性，证明检测情绪的可能性
 - [[raw/papers/2011multimodalmissingdata-limitedcomputing-resources.md]] — 2011多模态缺失数据+有限计算资源
 - [[raw/papers/2025hand-rehabilitation-remote-camera-microphone-wearablephysiological-parameters-vrgaming.md]] — 2025手部康复+远程+摄像头+麦克风+穿戴生理参数+虚拟现实游戏

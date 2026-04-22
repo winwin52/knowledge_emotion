@@ -53,6 +53,11 @@
 - 内容: 今天和室友去必胜客吃披萨,算命先生连续3次对win-win说"我有一句话要跟你说";最近3次去优衣库都穿着Ariel公主印花T恤
 - 更新: index.md (Total pages: 21)
 
+## [2026-04-21] ingest | 1篇新PDF论文摄入
+- 新增PDF原文: 2016MIT雷达测心率情绪机器学习.md (MIT EQ-Radio, MobiCom 2016)
+- 更新: index.md (Total pages: 33)
+- 更新: log.md
+
 ## [2026-04-21] ingest | 9篇新PDF论文摄入
 - 新增PDF原文:
   - 2015FMCW雷达获取心率及呼吸率的方法.md (MIT Vital-Radio, CHI 2015)
